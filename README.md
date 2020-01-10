@@ -10,7 +10,9 @@ A boolean expression that is written in CNF consists of:
 
 ## Definitions
 **Unit clause**: A clause with only one literal.
+
 **Empty clause**: A clause with no literals.
+
 **Pure literal**: A literal is pure if it always has the same sign (positive or negative) in every clause. 
 
 ## Using DPLL to solve a satisfiability problem

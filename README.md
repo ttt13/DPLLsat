@@ -32,8 +32,7 @@ The program will print "UNSAT" if the formula is unsatisfiable and "SAT" if it i
 
 To test the algorithm, use the following command:
 
-``` python DPLLsat.py -i <inputCNFfile>
-```
+``` python DPLLsat.py -i <inputCNFfile> ```
 or
 ``` python DPLLsat.py -i <inputCNFfile> -v ```
 if you want to see the solution.
